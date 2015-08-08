@@ -156,6 +156,7 @@
 		7A23BF381B7597830002E160 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Speedy Unicorn Studio Inc";
 				TargetAttributes = {
@@ -413,6 +414,7 @@
 				7A23BF611B7597830002E160 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7A23BF621B7597830002E160 /* Build configuration list for PBXNativeTarget "PlayItTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +423,7 @@
 				7A23BF641B7597830002E160 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
